@@ -1,0 +1,18 @@
+#container {
+  display: flex;
+}
+
+.cell {
+  border: 1px;
+  background-color: darkgoldenrod;
+  width: 20px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.row {
+  border: 1px;
+  background-color: aqua;
+  width: 20px;
+  height: 20px;
+}
